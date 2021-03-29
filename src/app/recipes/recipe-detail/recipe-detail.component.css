@@ -1,0 +1,6 @@
+.recipe-detail {
+  position: absolute;
+  z-index: 1;
+  top: 5%;
+  left: 15%;
+}
